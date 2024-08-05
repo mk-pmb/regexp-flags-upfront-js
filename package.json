@@ -1,5 +1,5 @@
 { "name": "regexp-flags-upfront",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make regexps from a string that contains the flags as well as the pattern.",
   "keywords": [
     "flags",

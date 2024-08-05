@@ -23,6 +23,8 @@ expression like `(?imu:)`, its letters will be used as the RegExp flags.
 If `addFlags` is given, it should be an empty string or a string of only
 letters. They will be merged with the flags possibly found in `spec`.
 
+Returns a RegExp object.
+
 
 
 <!--#toc stop="scan" -->
